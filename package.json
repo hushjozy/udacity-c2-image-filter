@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hushjozy/udacity-c2-image-filter.git"
+    "url": "https://github.com/hushjozy/udacity-c2-image-filter.git"
   },
   "author": "",
   "license": "ISC",
